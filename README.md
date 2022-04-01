@@ -48,7 +48,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![]](ss1.png)
+![](ss1.png)
 
 
 ## Result:
